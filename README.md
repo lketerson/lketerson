@@ -2,7 +2,7 @@
 
 > Graduated in Computer Science and currently working as mobile developer.
 
-🔭 Dart/Flutter Dev.
+🔭 Mobile Dev | Dart | Flutter | QA | UX/UI | Supabase.
 
 <div>
   <a href="https://www.linkedin.com/in/lucasketerson">
@@ -29,6 +29,7 @@
   <div style="display: inline_block"><br>
      <a href="https://www.linkedin.com/in/lucasketerson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  <a href="www.portfolio.lketerson.com">PORTFOLIO</a>
   
 <!---
 - 📫 How to reach me? 
