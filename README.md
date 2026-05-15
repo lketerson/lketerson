@@ -4,11 +4,8 @@
 
 🔭 Mobile Dev | Dart | Flutter | QA | UX/UI | Supabase.
 
-<div>
-  <a href="https://www.linkedin.com/in/lucasketerson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lketerson&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lketerson&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+<a href="www.portfolio.lketerson.com">PORTFOLIO</a>
+</br>
 
  ## 🚀 Skills
 <div style="display: inline_block"><br>
@@ -29,7 +26,7 @@
   <div style="display: inline_block"><br>
      <a href="https://www.linkedin.com/in/lucasketerson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  <a href="www.portfolio.lketerson.com">PORTFOLIO</a>
+  
   
 <!---
 - 📫 How to reach me? 
